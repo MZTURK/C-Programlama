@@ -1,2 +1,2 @@
 # C-Programlama
- C programlamada öğrendikleirmi buraya bırakıyorum.
+ C programlamada öğrendiklerimi buraya yazıyorum.
